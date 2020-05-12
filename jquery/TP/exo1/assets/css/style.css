@@ -1,0 +1,13 @@
+#container{
+    display: flex, row;
+    text-align: center;
+    border-color: black;
+    border-style: double;
+    margin: 50px;
+    padding-bottom: 25px;
+}
+
+#ok{
+    background-color: red;
+    text-decoration: blink;
+}
